@@ -23,7 +23,7 @@ global.owner = [
   ['5219996125657']
 ] 
 
-global.suittag = ['5219993404349'] 
+global.suittag = ['595985168557'] 
 global.prems = ['51995386439'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
