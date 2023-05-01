@@ -11,8 +11,8 @@
     },
     "scripts": {
         "start": "yarn index.js",
-        "test": "node test.js",
-        "test2": "nodemon index.js"
+        "test": "yarn test.js",
+        "test2": "yarnmon index.js"
     },
     "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
     "author": {
